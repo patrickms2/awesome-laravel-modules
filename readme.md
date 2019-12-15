@@ -4,7 +4,7 @@
 
 ## About laravel-modules
 
-Laravel-modules is a Module Management package for Laravel developed by Nicolas Widart.
+Laravel-modules is a Module Management package for Laravel developed by Nicolas Widart and the open-source community.
 
 ## Table of Contents
 
