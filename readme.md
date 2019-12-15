@@ -2,6 +2,10 @@
 
 > A curated list of Modules for the awesome [nwidart/laravel-modules](https://github.com/nWidart/laravel-modules) package
 
+## About laravel-modules
+
+Laravel-modules is a Module Management package for Laravel developed by Nicolas Widart.
+
 ## Table of Contents
 
 - [Security](#security)
